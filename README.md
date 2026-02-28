@@ -128,7 +128,7 @@
         <h2>Galería de Imágenes</h2>
         <div class="imagenes">
             <img src="https://media.4-paws.org/d/2/5/f/d25ff020556e4b5eae747c55576f3b50886c0b90/cut%20cat%20serhio%2002-1813x1811-720x719.jpg" alt="Imagen 1">
-            <img src="https://www.alleycat.org/wp-content/uploads/2025/11/ow_head.jpg"Imagen 2">
+            <img src="https://www.alleycat.org/wp-content/uploads/2025/11/ow_head.jpg" alt="Imagen 2">
             <img src="https://supertails.com/cdn/shop/articles/cat-3_d15c0254-8ccd-4beb-bc3e-1c988bcc5d51.jpg?v=1766559147" alt="Imagen 3">
         </div>
     </section>
